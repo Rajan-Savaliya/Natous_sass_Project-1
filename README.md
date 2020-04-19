@@ -8,7 +8,7 @@
 
 > use live-server and alt+l+o
 
-> if you want to add something
+> if you want to EDIT something
 
 > sass file all folder chage it
 
